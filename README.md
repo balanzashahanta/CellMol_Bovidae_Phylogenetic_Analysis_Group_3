@@ -45,7 +45,7 @@ Finally, the aligned dataset was used to construct a Newick-formatted phylogenet
 
 <img width="490" height="369" alt="Figure 4" src="https://github.com/user-attachments/assets/8ecc025b-c323-4e1c-abc9-2efcb1cba0b2" />
 
-**Figure 3.** Phylogenetic tree of selected Bovidae species based on mitochondrial COI sequences. 
+**Figure 4.** Phylogenetic tree of selected Bovidae species based on mitochondrial COI sequences. 
 
 The phylogenetic tree constructed from mitochondrial cytochrome c oxidase subunit I (COI) sequences shows the evolutionary relationships among selected members of the family Bovidae, with _Cervus elaphus_ (family Cervidae) serving as the outgroup.
 The outgroup branches separately from all Bovidae, confirming that it is more distantly related and providing a reference for rooting the tree. Within the Bovidae, two major clades are evident.
